@@ -1,0 +1,3 @@
+﻿  adddigits_recursion.c
+c:\users\digitizer\documents\visual studio 2015\projects\cprojects\adddigits_recursion\adddigits_recursion\adddigits_recursion.c(10): warning C4013: 'add_digits' undefined; assuming extern returning int
+  AddDigits_recursion.vcxproj -> C:\Users\Digitizer\Documents\Visual Studio 2015\Projects\CProjects\AddDigits_recursion\Debug\AddDigits_recursion.exe
