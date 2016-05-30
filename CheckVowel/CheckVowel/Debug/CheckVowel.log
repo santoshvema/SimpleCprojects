@@ -1,0 +1,6 @@
+﻿  checkvowel.c
+c:\users\digitizer\documents\visual studio 2015\projects\cppprojects\checkvowel\checkvowel\checkvowel.c(7): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\digitizer\documents\visual studio 2015\projects\cppprojects\checkvowel\checkvowel\checkvowel.c(7): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\digitizer\documents\visual studio 2015\projects\cppprojects\checkvowel\checkvowel\checkvowel.c(7): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\digitizer\documents\visual studio 2015\projects\cppprojects\checkvowel\checkvowel\checkvowel.c(7): note: this argument is used as a buffer size
+  CheckVowel.vcxproj -> C:\Users\Digitizer\Documents\Visual Studio 2015\Projects\CppProjects\CheckVowel\Debug\CheckVowel.exe
